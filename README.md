@@ -29,3 +29,28 @@ Para instalar el Sistema Requieres Apache+PHP+MySQL o tener instalado el XAMPP/L
 ## Mas informacion
 Encuentra mas informacion, instrucciones y demos en el siguiente link.
 Link: http://evilnapsis.com/2015/07/11/inventio-lite-sistema-de-inventario-y-ventas/
+
+Sitio:
+
+1.- Copiar y descomprimir el archivo en la carpeta c:\xampp\htdocs, al final tendras una carpeta llamada “inventio-lite”, a la cual accederas desde el navegador como -> http://127.0.0.1/inventio-lite
+2.- Buscar el archivo schema.sql en inventio-lite/schema.sql, una vez localizado copiar y pegar el contenido en una ventana de MySQL, PHPMyAdmin o MySQL WorkBench
+3.- En caso de ser necesario modificar el archivo C:\xampp\htdocs\inventio-lite\core\controller\Database.php para los datos asociados al acceso a la base de datos.
+4.- Acceder a http://127.0.0.1/inventio-lite y entrar al sistema con los siguientes datos.
+Usuario: admin
+Password: admin
+
+
+Te recomiendo que instales XAMPP y con soporte para PHP 5.5+
+
+
+Excelente! Gracias por compartir!
+Lo instalé en un entorno LAMP, fué más sencillo que el tuto p/windows.
+Apareció la pantalla “no hay notificaciones”. Ahora empezaré a probarlo y eventualmente “personalizarlo”.
+Gracias por compartir… Genio!
+
+
+video instalacion 
+
+https://web.archive.org/web/20180918053439/http://evilnapsis.com:80/lessons/useinventio1-instalacion/
+
+
